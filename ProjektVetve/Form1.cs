@@ -27,6 +27,8 @@ namespace ProjektVetve
 
             //zmena VETEV2
             //Dalsi ymena ve Vetvi2
+
+            //Znovu pouzita vetev
         }
     }
 }
